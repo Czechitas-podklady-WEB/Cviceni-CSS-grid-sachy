@@ -23,3 +23,7 @@ Nastyluj stránku podle ukázky níže.
 ## Ukázka responzivního chování
 
 ![responzivní chování](zadani/responzivni.gif)
+
+## Bonus (dobrovolný)
+
+- Jako obrázek na pozadí šachovnice použij `obrazky/bonus/sachovnice.svg`, který je menší a kvalitnější než `png` varianta.
