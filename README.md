@@ -1,4 +1,4 @@
-# Úkol: Šachy
+# Cvičení: Šachy
 
 Nastyluj stránku podle ukázky níže.
 
